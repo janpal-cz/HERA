@@ -12,9 +12,7 @@ The webserver for **plasmid visualization** using BLAST alignment against refere
 <br clear="left"/>
 
 # Webserver
-https://web.ccb.uni-saarland.de/hera/
-
-**No installation** is required. Simply upload your input files in fasta or GenBank format and everything is handled for you within the web server. No manual modification of the files or numerous number of clicks before you get the image. Powered by CGView.js, D3.js, and jsPanels.js. Real-time modification of the plasmid map within control panels. 
+**No installation** is required. Simply upload your input files in fasta or GenBank format and everything is handled for you within <a href="https://web.ccb.uni-saarland.de/hera/">the <strong>HERA web server</strong></a>. No manual modification of the files or numerous number of clicks before you get the image. Powered by CGView.js, D3.js, and jsPanels.js. Real-time modification of the plasmid map within control panels. 
 
 # Fast tutorial
 <a href="https://web.ccb.uni-saarland.de/hera/help">
