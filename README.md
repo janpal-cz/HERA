@@ -1,7 +1,9 @@
 # HERA: Host-Element Reference-based Aligner
-<p>The webserver for <strong>plasmid visualization</strong> using BLAST alignment against reference sequences.</p><br>
-<img src="img/HERA_background_home.jpg" alt="Figure" align="center" width="50%">
-<p>no manual file preparation | real-time changes | annotation | automatic reference selection</p><br>
+<p align="center">The webserver for <strong>plasmid visualization</strong> using BLAST alignment against reference sequences.</p><br>
+<div align="center">
+  <img src="img/HERA_background_home.jpg" alt="Figure" width="50%">
+</div>
+<p align="center">no manual file preparation | real-time changes | annotation | automatic reference selection</p><br>
 
 # Webserver
 **No installation** is required. Simply upload your input files in fasta or GenBank format and everything is handled for you within <a href="https://web.ccb.uni-saarland.de/hera/">the <strong>HERA web server</strong></a>. No manual modification of the files or numerous number of clicks before you get the image. Powered by CGView.js, D3.js, and jsPanels.js. Real-time modification of the plasmid map within control panels. 
