@@ -14,8 +14,8 @@
 </a>
 
 # Publication
-If you use the results from HERA in your research, please cite us: 
-Leidy-Alejandra G Molano, Pascal Hirsch, Andreas Keller, Monika Dolejska, Jana Palkovicova, HERA: a web server for host element reference-based aligner, Nucleic Acids Research, Volume 54, Issue W1, 7 July 2026, Pages W154–W159, https://doi.org/10.1093/nar/gkag448
+<p>If you use the results from HERA in your research, please cite us:</p>
+<p>Leidy-Alejandra G Molano, Pascal Hirsch, Andreas Keller, Monika Dolejska, Jana Palkovicova, HERA: a web server for host element reference-based aligner, Nucleic Acids Research, Volume 54, Issue W1, 7 July 2026, Pages W154–W159, https://doi.org/10.1093/nar/gkag448</p>
 
 
 # Issues
