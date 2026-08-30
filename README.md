@@ -13,5 +13,10 @@
   <img src="img/example_tutorial.jpg" alt="Figure" width="100%">
 </a>
 
+# Publication
+If you use the results from HERA in your research, please cite us: 
+Leidy-Alejandra G Molano, Pascal Hirsch, Andreas Keller, Monika Dolejska, Jana Palkovicova, HERA: a web server for host element reference-based aligner, Nucleic Acids Research, Volume 54, Issue W1, 7 July 2026, Pages W154–W159, https://doi.org/10.1093/nar/gkag448
+
+
 # Issues
 We are actively working on functionality of the web server, extending its features, improving the user experience and fixing potential bugs. If you have anything to report, you would appreciate some new feature or have some ideas, do not hesitate to leave us feedback. 
